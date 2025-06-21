@@ -99,7 +99,6 @@ They simulate the kind of questions businesses, governments, or NGOs might ask a
 We believe **"you learn best by doing."**
 
 Follow us on:
-- 📸 Instagram: [@datastarterng](https://instagram.com/datastarterng)
 - 🐦 Twitter: [@datastarterng](https://twitter.com/datastarterng)
 
 ---
