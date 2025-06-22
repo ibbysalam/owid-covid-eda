@@ -6,12 +6,12 @@ Whether you're new to data or stuck in tutorial hell, this initiative is designe
 
 ---
 
-## 🧠 Project 1: OWID COVID-19 Data Analysis
+## Project 1: OWID COVID-19 Data Analysis
 
 **Objective:**  
 Analyze the global impact of COVID-19 using the [Our World in Data COVID-19 dataset](https://ourworldindata.org/covid-deaths). Gain insights into how the pandemic affected countries over time and practice working with real-world, messy data.
 
-## 🛠 SQL View Setup
+## SQL View Setup
 
 To simplify querying, we've created a **SQL view** that selects only the relevant columns you'll need for your analysis.
 
@@ -26,7 +26,7 @@ It helps you avoid repeating filtering logic and keeps your analysis clean and f
 
 ---
 
-### 🔍 Insights We'll Explore
+### Insights We'll Explore
 
 > These are practical business-style questions we'll answer using SQL:
 
@@ -73,7 +73,7 @@ They simulate the kind of questions businesses, governments, or NGOs might ask a
 
 ---
 
-## 🧰 Tools Used
+## Tools Used
 
 - SQL (SSMS)
 
