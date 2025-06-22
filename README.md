@@ -13,7 +13,7 @@ Analyze the global impact of COVID-19 using the [Our World in Data COVID-19 data
 
 ## SQL View Setup
 
-To simplify querying, we've created a **SQL view** that selects only the relevant columns you'll need for your analysis.
+To simplify querying, I've created a **SQL view** that selects only the relevant columns you'll need for your analysis.
 
 > 📄 You'll find this view inside the `sql/` folder of this repository as:
 
@@ -105,7 +105,7 @@ Follow us on:
 
 ## 📌 Upcoming Projects
 
-- Project 2: Customer Churn Analysis
+- Project 2: Customer Churn Analysis w/ Power BI
 
 ---
 
