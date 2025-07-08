@@ -30,13 +30,13 @@ It helps you avoid repeating filtering logic and keeps your analysis clean and f
 
 > These are practical business-style questions we'll answer using SQL:
 
-1. Worst Day per Country (Highest New Cases) - Find the single worst day of new infections worldwide.
-2. Countries with the highest deaths (Which countries had the highest total COVID-19 deaths?)
-3. Global New Cases Over Time (Daily global total of reported new cases.)
-4. 7-day average new cases (How did new cases trend over time using a rolling 7-day average?)
-5. Monthly Case Spikes (Identify months with the biggest worldwide surges.)
-6. Deaths vs Population (How many deaths were recorded compared to the population size?)
-7. Case Fatality Ratio (CFR) (Percentage of confirmed cases that resulted in death.)
+- Worst Day per Country (Highest New Cases) - Find the single worst day of new infections worldwide.
+- Countries with the highest deaths (Which countries had the highest total COVID-19 deaths?)
+- Global New Cases Over Time (Daily global total of reported new cases.)
+- 7-day average new cases (How did new cases trend over time using a rolling 7-day average?)
+- Monthly Case Spikes (Identify months with the biggest worldwide surges.)
+- Deaths vs Population (How many deaths were recorded compared to the population size?)
+- Case Fatality Ratio (CFR) (Percentage of confirmed cases that resulted in death.)
 
 > 💡 *Why these insights?*  
 They simulate the kind of questions businesses, governments, or NGOs might ask analysts. They also help beginners practice joins, aggregations, window functions, and date filtering.
