@@ -30,35 +30,13 @@ It helps you avoid repeating filtering logic and keeps your analysis clean and f
 
 > These are practical business-style questions we'll answer using SQL:
 
-1. **Worst hit day per country**  
-   _What day did each country record its highest number of new cases?_
-
-2. **Countries with the highest deaths**  
-   _Which countries had the highest total COVID-19 deaths?_
-
-3. **7-day average new cases**  
-   _How did new cases trend over time using a rolling 7-day average?_
-
-4. **Deaths vs Population**  
-   _How many deaths were recorded compared to population size?_
-
-5. **Vaccination Progress**  
-   _Which countries vaccinated the most people and when?_
-
-6. **Continental comparisons**  
-   _How did Africa fare compared to Europe, Asia, etc.?_
-
-7. **Monthly new case trends**  
-   _Are there patterns in case spikes by month or year?_
-
-8. **Peak periods by continent**  
-   _When did each continent face its worst COVID wave?_
-
-9. **Case fatality ratio**  
-   _What percentage of confirmed cases resulted in deaths per country?_
-
-10. **Recovery or not?**  
-   _Did some countries bounce back faster than others based on new case trends and vaccination rates?_
+1. Worst Day per Country (Highest New Cases) - Find the single worst day of new infections worldwide.
+2. Countries with the highest deaths (Which countries had the highest total COVID-19 deaths?)
+3. Global New Cases Over Time (Daily global total of reported new cases.)
+4. 7-day average new cases (How did new cases trend over time using a rolling 7-day average?)
+5. Monthly Case Spikes (Identify months with the biggest worldwide surges.)
+6. Deaths vs Population (How many deaths were recorded compared to the population size?)
+7. Case Fatality Ratio (CFR) (Percentage of confirmed cases that resulted in death.)
 
 > 💡 *Why these insights?*  
 They simulate the kind of questions businesses, governments, or NGOs might ask analysts. They also help beginners practice joins, aggregations, window functions, and date filtering.
@@ -105,7 +83,7 @@ Follow us on:
 
 ## 📌 Upcoming Projects
 
-- Project 2: Customer Churn Analysis w/ Power BI
+- Project 2: Loan Approval Dashboard w/ Power BI
 
 ---
 
