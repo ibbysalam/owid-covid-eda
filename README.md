@@ -1,11 +1,3 @@
-# 🌍 Data Starter NG
-
-Welcome to **Data Starter NG** — a beginner-friendly space to practice data analytics, build real-world projects, and grow your portfolio one challenge at a time.
-
-Whether you're new to data or stuck in tutorial hell, this initiative is designed to help you **break in through doing**. Each project is simple, real, and meant to make you think like an analyst.
-
----
-
 ## Project 1: OWID COVID-19 Data Analysis
 
 **Objective:**  
@@ -66,42 +58,9 @@ They simulate the kind of questions businesses, governments, or NGOs might ask a
 
 ---
 
-## 🧑🏽‍💻 About Data Starter NG
-
-**Data Starter NG** is built by learners, for learners. It’s a free challenge-based learning journey for anyone looking to:
-- Build a data portfolio
-- Practice hands-on
-- Escape tutorial hell
-- Stay consistent and accountable
-
-We believe **"you learn best by doing."**
-
-Follow us on:
-- 🐦 Twitter: [@datastarterng](https://twitter.com/datastarterng)
-
----
-
-## 📌 Upcoming Projects
-
-- Project 2: Loan Approval Dashboard w/ Power BI
-
----
-
-## 🤝 Contribute
-
 Got feedback or want to contribute your own project ideas or walkthroughs?  
 Send a DM!
 
----
 
-## 📫 Contact
 
-Feel free to reach out or tag us if you're sharing your projects online.  
-We’d love to hype your work! 💪
-
----
-
-## ⭐ Stay Consistent, Stay Curious
-
-If you're here, you already took the first step. Keep going. 🚀
 
